@@ -28,7 +28,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Given a matrix object returned by makeCacheMatrix(), either returned
+## Given a matrix object returned by makeCacheMatrix(), either return
 ## the cached inverse or calculate the inverse and cache it.
 ##
 ## @param  x    a matrix object returned by makeCacheMatrix()
