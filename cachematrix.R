@@ -2,8 +2,6 @@
 ##
 ## These functions expose a matrix inversion function called cacheSolve which will
 ## cache the inverse of a matrix so that it does not need to be computed repeatedly.
-## @author Ricky Barry
-## @date   2014-07-14
 
 ## Given a matrix, create and return a new matrix-like object that
 ## can cache its inverse.
